@@ -25,7 +25,11 @@
 				{
 					href: 'https://github.com/DeltaV3/ZLauncher',
 					name: 'Github'
-				}
+				},
+				{
+					href: 'https://discord.com/invite/vHCbvhzrj5',
+					name: 'Discord'
+				}	
 			]
 		},
 		{

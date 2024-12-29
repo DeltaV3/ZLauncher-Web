@@ -16,7 +16,7 @@
 			id: 'price_1',
 			name: 'Descarga de GitHub',
 			description: 'ZLauncher siempre será gratuito.',
-			features: ['Descarga gratuita', 'Actualización de mods automática', 'Better mobile experience', 'Back button is working as intended'],
+			features: ['Descarga gratuita', 'Actualización de mods automática', 'Configurable', 'Instalación Todo en Uno'],
 			monthlyPrice: 0,
 			yearlyPrice: 0,
 			isMostPopular: true,
@@ -126,7 +126,7 @@
 							<span
 								class="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform-gpu bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-96 dark:bg-black"
 							/>
-							Download
+							Descargar
 						</Button>
 					{:else}
 						<Button
@@ -140,7 +140,7 @@
 							<span
 								class="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform-gpu bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-96 dark:bg-black"
 							/>
-							Download
+							Descargar
 						</Button>
 					{/if}
 

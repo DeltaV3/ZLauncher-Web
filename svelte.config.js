@@ -8,7 +8,7 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		// Configuración para el adaptador de Cloudflare
+		
 		adapter: adapter()
 	}
 };
